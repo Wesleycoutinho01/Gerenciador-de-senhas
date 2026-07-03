@@ -1,11 +1,4 @@
 
-
-main.js
-Página
-1
-/
-1
-100%
 const numeroSenha = document.querySelector('.parametro-senha__texto');
 let tamanhoSenha = 12;
 numeroSenha.textContent = tamanhoSenha;
